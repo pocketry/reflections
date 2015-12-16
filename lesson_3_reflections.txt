@@ -32,4 +32,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    when the end result of a feature requires more than one commit, a branch is
+	the better option. if something is a straightforward change that one commit
+	can fix, then working in master should be ok
